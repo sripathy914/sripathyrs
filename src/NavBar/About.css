@@ -1,0 +1,419 @@
+.image
+{
+   color: rgb(0, 0, 0);
+   background-image: url('./backimage.jpg');
+   background-repeat: no-repeat;
+   background-position: center;
+   background-size: cover;
+   height: 700px; 
+} 
+
+.whoiam
+{
+   color: rgb(176, 179, 180);
+   font-size: 35px;
+   
+   
+}
+.super{
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   height: 700px;
+   width: 100%;
+   align-items: center;
+   
+   
+}
+.ispan
+{
+   font-size: 45px;
+   text-shadow: 0px 0px 10px #ffffff;
+}
+.main
+{
+   
+   width: auto;
+   padding: 0px;
+   
+   display: flex;
+   flex-direction: row;
+   justify-content: center;
+   align-items: center;
+   margin-right: 100px;
+   margin-left: 100px;
+   filter: drop-shadow(0px 0px 10px white);
+}
+ 
+.innertext{
+   height: 100px;
+   width: 700px;
+   background-color: rgb(30, 25, 25);
+   border-radius: 10px;
+   padding-top: 0px;
+   width: 100%;
+   color: aliceblue;
+   padding-top: 30px;
+   font-size: 19px;
+   padding: 30px; 
+}
+
+
+
+.super1
+{
+   display: flex;
+   flex-direction: row;
+   justify-content: center;
+   height: auto;
+   width: 100%;
+   align-items: center;
+   background-image: url("./paul-volkmer-fX-qWsXl5x8-unsplash-modified.jpg");
+   background-size: cover;
+   
+}
+.skills
+{
+   color: white;
+   filter: drop-shadow(0px 0px 10px white);
+   
+}
+.tech
+{
+   margin: 20px;
+}
+.head
+{
+   font-size: 22px;
+   margin-bottom: 20px;
+   color: white;
+   filter: drop-shadow(0px 0px 5px white);
+}
+.techskills
+{
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   height: 250px;
+   font-size: 16px;
+   gap: 20px;
+}
+.design
+{
+   margin: 20px;
+}
+.designskills
+{
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   height: 250px;
+   font-size: 16px;
+   gap: 20px;
+}
+.soft
+{
+   margin: 20px;
+}
+.softskills
+{
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   height: 250px;
+   font-size: 16px;
+   gap: 20px; 
+}
+
+.main1
+{
+   height: auto;
+   width: auto; 
+   margin-top: 50px;
+   display: flex;
+   flex-direction: column;
+   justify-content:space-evenly;
+   align-items: center;
+   margin-right: 100px;
+   margin-left: 00px; 
+   gap: 50px;
+   
+}
+.box3{
+   height: 400px;
+   width: 400px;
+   
+   
+   border-radius: 10px;
+}
+.box4{
+   height: 400px;
+   border-radius: 10px;
+   
+   width: 400px;
+   
+}
+.main2
+{
+   
+   height: 400px;
+   width: 400px; 
+   
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+   margin-right: 100px;
+   margin-left: 100px; 
+   margin-top: 30px;
+   gap: 40px; 
+   
+}
+.box5
+{
+   height: 400px;
+   border-radius: 10px;
+   
+   width: 400px;
+    
+}
+
+.main3
+{
+   height: 400px;
+   width: auto; 
+   
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   margin-right: 100px;
+   margin-left: 100px; 
+   margin-top: 70px;
+   
+}
+.super2
+{
+   display: flex;
+   flex-direction: row;
+   justify-content: center;
+   height: 600px;
+   width: 100%;
+   align-items: center;
+   background-image: url("./paul-volkmer-fX-qWsXl5x8-unsplash-modified.jpg");
+   background-size: cover;
+   
+   padding-bottom: 120px; 
+}
+.skills2
+{
+   color: white;
+   filter: drop-shadow(0px 0px 10px white);
+   margin-left: 100px;
+   
+}
+.box6
+{
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   
+   height: 400px;
+   border-radius: 10px;
+   
+   width: 600px;
+   
+   
+} 
+.academics
+{
+   margin: 20px;
+   font-size: 16px;
+   color: white;
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   gap: 30px;
+
+} 
+.college
+{
+   
+   margin: 10px;
+   padding: 20px;
+   background-color: rgb(38, 36, 36);
+   color: white;
+   filter: drop-shadow(0px 0px 5px white);
+} 
+
+.hsc
+{
+   
+   margin: 10px;
+   padding: 20px;
+   background-color: rgb(38, 36, 36);
+   color: white;
+   filter: drop-shadow(0px 0px 5px white);
+}
+.sslc
+{
+   
+   margin: 10px;
+   padding: 20px;
+   background-color: rgb(38, 36, 36);
+   color: white;
+   filter: drop-shadow(0px 0px 5px white);
+}
+ 
+.main4
+{
+   height: 400px;
+   width: 400px; 
+   
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+   margin-right: 100px;
+   margin-left: 100px; 
+   margin-top: 80px;
+   gap: 40px; 
+}
+.box7
+{
+   display: flex;
+   flex-direction: column;
+   
+   height: 150px;
+   border-radius: 10px;
+   
+   width: 400px;
+   
+   
+} 
+.language
+{
+   background-color: rgb(38, 36, 36);
+   padding: 20px;
+   color: white;
+   color: white;
+   filter: drop-shadow(0px 0px 5px white);
+}
+.box8
+{
+
+   display: flex;
+   flex-direction: column;
+   justify-content: center; 
+   height: 300px;
+   border-radius: 10px;
+   
+   width: 600px;
+   
+}
+.coding
+{
+   margin: 10px;
+   padding: 20px;
+   background-color: rgb(38, 36, 36);
+   color: white;
+   filter: drop-shadow(0px 0px 5px white);
+}
+.hackathon
+{
+   margin: 10px;
+   padding: 20px;
+   background-color: rgb(38, 36, 36);
+   color: white;
+   filter: drop-shadow(0px 0px 5px white);
+}
+.academic
+{
+   margin: 10px;
+   padding: 20px;
+   background-color: rgb(38, 36, 36);
+   color: white;
+   filter: drop-shadow(0px 0px 5px white);
+}
+.achievements
+{
+   margin: 20px;
+   font-size: 16px;
+   color: white;
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   gap: 20px;
+}
+.main5
+{
+   height: 400px;
+   width: auto; 
+   
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   margin-right: 100px;
+   margin-left: 100px; 
+   margin-top: 70px;
+   margin-bottom: 70px;
+}
+.explore1
+{
+    background-color: black;
+    color: white;
+    width: 350px;
+    height: 50px;
+    
+    border-radius: 10px;
+    font-size: 17px;
+    filter: drop-shadow(0px 0px 10px white);
+    transition: background-color 0.6s, color 0.6s, box-shadow 0.6s; 
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+.explore1:hover
+{
+    background-color:rgb(213, 212, 212);
+    color: black;
+    border: 0px;
+    box-shadow: 0px 0px 10px rgb(203, 189, 189);
+    
+}  
+
+.super6::before, .super7::before {
+   content: "";
+   position: absolute;
+   top: 0;
+   right: 0;
+   bottom: 0;
+   left: 0;
+   background-size: cover;
+   background-color: black;
+   z-index: -1; /* Ensure the pseudo-element is behind the content */
+ }
+ 
+ .super6::before {
+   background-image: url("./paul-volkmer-fX-qWsXl5x8-unsplash-modified.jpg");
+   transform: rotate(180deg);
+ }
+ 
+ .super7::before {
+   background-image: url("./paul-volkmer-fX-qWsXl5x8-unsplash-modified.jpg");
+   transform: rotate(180deg);
+ }
+ 
+ .super6, .super7 {
+   display: flex;
+   flex-direction: row;
+   justify-content: center;
+   height: auto;
+   width: 100%;
+   align-items: center;
+   position: relative;
+   padding-bottom: 120px; /* Adjusted padding for .super7 to match your design */
+   color: white; /* Set text color */
+ }
+ .homebuttons
+ {
+   padding-bottom: 100px;
+ }

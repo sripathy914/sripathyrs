@@ -1,0 +1,44 @@
+.Footer
+{
+    
+    width: 100%; 
+    height: 300px;
+    background-color: rgb(32, 32, 32); 
+    color: white;
+    
+}
+.FooterContent 
+{
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+    text-align: left;
+    flex-wrap: wrap;  
+}
+.linkcolor
+{
+    text-decoration: none;
+    color: inherit;
+    display: flex;
+    flex-direction: column;
+}
+.rowfooter
+{
+    
+}
+
+@media (max-width:426px) {
+    .FooterContent{ 
+        padding-left: 80px;
+        padding-right: 120px;
+        display: flex;
+        justify-content: left;
+        flex-direction: column;
+        text-align: left;
+    }
+    .Footer
+    {
+        height: 520px;
+    }
+
+}

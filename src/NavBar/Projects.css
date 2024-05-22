@@ -1,0 +1,302 @@
+.imageP 
+{
+   color: rgb(0, 0, 0);
+   background-image: url('./backimage.jpg');
+   background-repeat: no-repeat;
+   background-position: center;
+   background-size: cover;
+   height: 700px; 
+}
+.superP
+{
+   
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   height: 700px;
+   width: 100%;
+   align-items: center; 
+   
+}
+.mainP
+{
+    width: 1000px;
+    padding: 0px;
+    height: 300px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-right: 100px;
+    margin-left: 100px;
+    
+    gap:50px;
+    background-color: inherit;
+}
+.portfolioP
+{
+    font-size: 25px;
+    color: white;
+    filter: drop-shadow(0px 0px 20px white);
+    height: 80px;
+    width: 1000px;
+ 
+}
+.pimage1
+{
+    background-color: black; 
+    height: 300px;
+    width: 300px;
+    background-image: url("Screenshot\ 2024-02-01\ 220155.png");
+    background-size: cover; 
+    border-radius: 10px;
+    border: 3px solid white;
+} 
+.ptext1
+{
+    background-color: rgb(45, 45, 46);
+    height: 200px;
+    width: 600px;
+    font-size: 17px;
+    border-radius: 10px;
+    padding: 20px;
+    color: white;
+   filter: drop-shadow(0px 0px 10px white);
+    
+}
+
+.imagev
+{
+    background-color: black;
+    
+}
+
+.superv
+{
+    
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   height: 700px;
+   width: 100%;
+   align-items: center;
+   background-image: url("./paul-volkmer-fX-qWsXl5x8-unsplash-modified.jpg");
+   background-size: cover;
+}
+.mainv
+{
+    width: 1000px;
+    padding: 0px;
+    height: 300px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-right: 100px;
+    margin-left: 100px;
+    background-color: inherit; 
+    gap:50px;
+}
+.virtualtitle
+{
+    
+    font-size: 25px;
+    color: white;
+    filter: drop-shadow(0px 0px 20px white);
+    height: 80px;
+    width: 1000px; 
+}
+.pimagev
+{
+    background-color: black; 
+    height: 300px;
+    width: 300px;
+    background-image: url("DreamShaper_v7_Virtual_RealityVR_locomotion_tracking_2.jpg");
+    background-size: cover; 
+    border-radius: 10px;
+    border: 3px solid white; 
+} 
+.ptextv
+{   
+
+    background-color: rgb(45, 45, 46);
+    color: white;
+    filter: drop-shadow(0px 0px 10px white);
+    height: 170px;
+    width: 600px; 
+    border-radius: 10px;
+    padding: 20px; 
+}
+
+
+
+.supera
+{
+    
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   height: 700px;
+   width: 100%;
+   align-items: center;
+   background-image: url("./paul-volkmer-fX-qWsXl5x8-unsplash-modified.jpg");
+   background-size: cover;
+}
+.maina
+{
+    width: 1000px;
+    padding: 0px;
+    height: 300px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-right: 100px;
+    margin-left: 100px;
+    background-color: inherit;  
+    gap:50px; 
+}
+.aug_a
+{
+    font-size: 25px;
+    color: white;
+    filter: drop-shadow(0px 0px 20px white);
+    height: 80px;
+    width: 1000px;
+}
+.pimagea
+{
+    background-color: black;
+    height: 300px;
+    width: 300px;
+    background-image: url("DreamShaper_v7_Augmented_RealityAR_3.jpg");
+    background-size: cover; 
+    border-radius: 10px;
+    border: 3px solid white;
+} 
+.ptexta
+{
+    background-color: rgb(45, 45, 46);
+    color: white;
+    filter: drop-shadow(0px 0px 10px white);
+    height: 150px;
+    width: 600px; 
+    border-radius: 10px;
+    padding: 20px;
+}
+
+
+
+.supera1
+{
+    
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   height: 700px; 
+   width: 100%;
+   align-items: center;
+   background-image: url("./paul-volkmer-fX-qWsXl5x8-unsplash-modified.jpg");
+   background-size: cover; 
+}
+.maina1
+{
+    width: 1000px;
+    padding: 0px;
+    height: 300px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-right: 100px;
+    margin-left: 100px;
+    background-color: inherit; 
+    gap:50px;
+}
+.aug_a1
+{
+    font-size: 25px;
+    color: white;
+    filter: drop-shadow(0px 0px 20px white);
+    height: 80px;
+    width: 1000px;
+}
+.pimagea1
+{
+    background-color: black;
+    height: 300px;
+    width: 300px;
+    background-image: url("_5e8599a0-d016-412b-ba1d-4386b3504ae9.jpg");
+    background-size: cover; 
+    border-radius: 10px;
+    border: 3px solid white;
+} 
+.ptexta1
+{
+    background-color: rgb(45, 45, 46);
+    color: white;
+    filter: drop-shadow(0px 0px 10px white);
+    height: 200px;
+    width: 600px; 
+    border-radius: 10px;
+    padding: 20px; 
+}
+
+
+
+.superimbl
+{
+    
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   height: 700px;
+   width: 100%;
+   align-items: center;
+   background-image: url("./paul-volkmer-fX-qWsXl5x8-unsplash-modified.jpg");
+   background-size: cover;
+}
+.mainimbl
+{
+    width: 1000px;
+    padding: 0px;
+    height: 300px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-right: 100px;
+    margin-left: 100px;
+    background-color: inherit; 
+    gap:50px;
+}
+.imbltitle
+{
+    font-size: 25px;
+    color: white;
+    filter: drop-shadow(0px 0px 20px white);
+    height: 80px;
+    width: 1000px;
+}
+.pimageimbl
+{
+    background-color: black;
+    height: 300px;
+    width: 300px;
+    background-image: url("_34849f78-30b0-4b9a-bfc6-48988f273676.jpg");
+    background-size: cover; 
+    border-radius: 10px;
+    border: 3px solid white;
+} 
+.ptextimbl 
+{
+    background-color: rgb(45, 45, 46);
+    color: white;
+    filter: drop-shadow(0px 0px 10px white);
+    height: 160px;
+    width: 600px; 
+    border-radius: 10px;
+    padding: 20px;  
+} 
+
+  
