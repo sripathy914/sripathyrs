@@ -12,7 +12,7 @@ const ContactUs = () =>{
                     <div class="form1c">
                         <div class="form2c">
                             <h2 class="logintext">Any queries..</h2>  
-                            <form>
+                            <form action="">
                                 <table>
                                     <tr>
                                          
