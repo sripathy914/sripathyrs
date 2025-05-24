@@ -12,7 +12,8 @@ const ContactUs = () =>{
                     <div class="form1c">
                         <div class="form2c">
                             <h2 class="logintext">Any queries..</h2>  
-                            <form action="">
+                            <form action="https://api.web3forms.com/submit" method="POST">
+                                <input type="hidden" name="access_key" value="0e7d5353-4784-47cd-b32f-6fec76b4eb8b"></input>
                                 <table>
                                     <tr>
                                          
